@@ -1,4 +1,4 @@
-# REPLACEME Wiki
+# Testing Team Wiki
 
 ## Links
 
