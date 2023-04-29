@@ -58,6 +58,8 @@ plugins:
   - git-revision-date-localized:
       type: date
   - search
+  - macros:
+      include_dir: docs/include
 
 # Extensions
 markdown_extensions:
