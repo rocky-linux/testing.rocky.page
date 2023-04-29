@@ -1,13 +1,13 @@
 ---
-# Project information
-site_name: REPLACEME Wiki
-site_url: https://REPLACEME.rocky.page
+# Wiki information
+site_name: Testing Wiki
+site_url: https://testing.rocky.page
 site_description: >-
-  REPLACEME
+    The wiki for the Rocky Linux Testing Team.
 
 # Repository
-repo_url: https://git.resf.org/REPLACEME/wiki
-repo_name: REPLACEME/wiki
+repo_url: https://git.resf.org/testing/wiki
+repo_name: testing/wiki
 edit_uri: _edit/main/docs/
 
 # Copyright

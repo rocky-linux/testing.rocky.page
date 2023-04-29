@@ -1,7 +1,9 @@
-# REPLACEME Wiki
+# Testing Team Wiki
 
-@TODO - fill in :)
+This is the wiki repository for the Rocky Linux Testing Team.
+
+https://testing.rocky.page
 
 ## Continuous Integration / Continuous Deployment
 
-Actions Runner executes workflow to publish to https://REPLACEME.rocky.page on push to main.
+Actions Runner executes workflow to publish to https://testing.rocky.page on push to main.
