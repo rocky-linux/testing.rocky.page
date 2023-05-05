@@ -132,8 +132,7 @@ Facilities for multi-vm testing which is substantially more complicated is beyon
 
 ### Helper Scripts
 
-see:
-https://github.com/rocky-linux/os-autoinst-distri-rocky/tree/develop/scripts
+[see here](https://github.com/rocky-linux/os-autoinst-distri-rocky/tree/develop/scripts)
 
 cancel-build.sh is especially useful when you discover that you have initiated a large build and got it wrong... d'oh.
 
