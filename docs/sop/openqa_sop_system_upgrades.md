@@ -10,7 +10,7 @@ This SOP details the necessary steps for performing a system upgrade on an openQ
 
 1. Verify current installation is fully upgraded
 
-    ``` shell linenums="1"
+    ``` bash linenums="1"
     dnf upgrade --refresh
     ```
 
