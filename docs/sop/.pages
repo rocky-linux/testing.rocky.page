@@ -3,4 +3,5 @@ nav:
   - ... | index.md
   - 'SOP: openQA Operator Access Request': 'openqa_sop_operator_access.md'
   - 'SOP: openQA Operator Access Removal': 'openqa_sop_operator_removal.md'
+  - 'SOP: openQA System Upgrades': 'openqa_sop_system_upgrades.md'
 ...
