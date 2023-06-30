@@ -2,57 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://testing.rocky.page/</loc>
-         <lastmod>2023-06-29</lastmod>
+         <lastmod>2023-06-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://testing.rocky.page/members/</loc>
-         <lastmod>2023-06-29</lastmod>
+         <lastmod>2023-06-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://testing.rocky.page/documentation/</loc>
-         <lastmod>2023-06-29</lastmod>
+         <lastmod>2023-06-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://testing.rocky.page/guidelines/</loc>
-         <lastmod>2023-06-29</lastmod>
+         <lastmod>2023-06-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://testing.rocky.page/include/contacts_top/</loc>
-         <lastmod>2023-06-29</lastmod>
+         <lastmod>2023-06-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://testing.rocky.page/include/content_bottom/</loc>
-         <lastmod>2023-06-29</lastmod>
+         <lastmod>2023-06-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://testing.rocky.page/include/members_full/</loc>
-         <lastmod>2023-06-29</lastmod>
+         <lastmod>2023-06-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://testing.rocky.page/include/members_no_role/</loc>
-         <lastmod>2023-06-29</lastmod>
+         <lastmod>2023-06-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://testing.rocky.page/sop/</loc>
-         <lastmod>2023-06-29</lastmod>
+         <lastmod>2023-06-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://testing.rocky.page/sop/openqa_sop_operator_access/</loc>
-         <lastmod>2023-06-29</lastmod>
+         <lastmod>2023-06-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://testing.rocky.page/sop/openqa_sop_operator_removal/</loc>
-         <lastmod>2023-06-29</lastmod>
+         <lastmod>2023-06-30</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://testing.rocky.page/sop/openqa_sop_system_upgrades/</loc>
+         <lastmod>2023-06-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
